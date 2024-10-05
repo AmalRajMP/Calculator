@@ -3,6 +3,11 @@
     margin:0;
     padding:0;
 }
+body
+{
+    background:url("https://wallpapercave.com/wp/wp2597345.jpg");
+    background-size:cover;
+}
 .main-container
 {
     height: 100vh;
